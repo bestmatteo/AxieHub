@@ -1,0 +1,10 @@
+C:\Users\gusta\source\repos\AxieHub\AxieHub\bin\Debug\AxieHub.exe.config
+C:\Users\gusta\source\repos\AxieHub\AxieHub\bin\Debug\AxieHub.exe
+C:\Users\gusta\source\repos\AxieHub\AxieHub\bin\Debug\AxieHub.pdb
+C:\Users\gusta\source\repos\AxieHub\AxieHub\obj\Debug\AxieHub.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\AxieHub\AxieHub\obj\Debug\AxieHub.Form1.resources
+C:\Users\gusta\source\repos\AxieHub\AxieHub\obj\Debug\AxieHub.Properties.Resources.resources
+C:\Users\gusta\source\repos\AxieHub\AxieHub\obj\Debug\AxieHub.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\AxieHub\AxieHub\obj\Debug\AxieHub.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\AxieHub\AxieHub\obj\Debug\AxieHub.exe
+C:\Users\gusta\source\repos\AxieHub\AxieHub\obj\Debug\AxieHub.pdb
